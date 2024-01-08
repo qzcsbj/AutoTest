@@ -1,2 +1,2 @@
 # AutoTest
-基于python
+python + pytest + pyyaml + requests + allure + jsonpath + pymysql + loguru
