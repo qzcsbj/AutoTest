@@ -4,7 +4,7 @@
 
 
 # 效果
-- ![报告截图](https://gitee.com/qzcsbj/pic/raw/master/alluredemo.png)
+- ![报告截图](https://gitee.com/qzcsbj/pic/raw/master/allure-report-pytest.png)
 
 
 # 自动化测试框架（汇总）
