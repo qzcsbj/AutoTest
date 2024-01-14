@@ -21,6 +21,7 @@
 - [X] unittest + 关联 + excle + ddt：/dev02/
 - [X] 自己造轮子（未使用unittest、pytest等）：/dev04/
 - [X] 自己造轮子（未使用unittest、pytest等，dev04升级版）：/dev05/
+- [X] python进阶版：python + pytest + pyyaml + requests + allure + jsonpath + pymysql + loguru
 - [X] java版：java + testng + httpclient + allure + fastjson + jsonpath + poi/yaml + log4j
 ##### 不写代码版
 - [X] JMeter + Ant + Jenkins【 windows 版】
